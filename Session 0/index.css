@@ -1,0 +1,21 @@
+* {
+    background-color: aqua;
+}
+
+.name {
+    padding: 30px;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    margin: 0px;
+}
+
+.email {
+    padding: 30px;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    margin: 20px;
+    margin-left: 0;
+    font-family: lora, sans-serif;
+}
