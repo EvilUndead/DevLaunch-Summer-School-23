@@ -11,3 +11,16 @@ Learning Resources :
 - https://www.w3schools.com/html/default.asp
 - https://www.w3schools.com/css/default.asp
 - https://www.w3schools.com/js/default.asp
+
+## Task
+
+Create a Login page as shown in the pic<br/>
+
+<img src='instaLogin.jpeg' style="height:30rem"></img>
+
+Deliverables : The created login page should have
+
+1.  Pointer for login,login with Facebook, forgot password and sign up
+2.  Make a hover effect to Log in block
+
+Deadline: Sunday EOD
